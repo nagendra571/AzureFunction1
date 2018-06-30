@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nagsappfunction", "nagsappfunction\nagsappfunction.csproj", "{E70ACBE8-5A83-4F96-822B-0CD1DE29BF01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E70ACBE8-5A83-4F96-822B-0CD1DE29BF01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E70ACBE8-5A83-4F96-822B-0CD1DE29BF01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E70ACBE8-5A83-4F96-822B-0CD1DE29BF01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E70ACBE8-5A83-4F96-822B-0CD1DE29BF01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8B48E43-6943-4EB8-AB91-C0F4FD2863D9}
+	EndGlobalSection
+EndGlobal
